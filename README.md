@@ -1,14 +1,14 @@
 ## Hi there 👋
 👨💻ABOUT-ME 
 
-• Passionate lifelong learner and aspiring Cyber Security Specialist. • Currently enrolled in the Praesignis AWS re/Start Programme. • Obsessed with all things cloud, security, networking, and automation. • Eager to make a positive impact with technology and secure our digital future.
+• Passionate lifelong learner aspiring Cyber Security Specialistand DataAnalyst  • Currently enrolled in the Praesignis AWS re/Start Programme. • Obsessed with all things cloud, database, security, networking, and automation. • Eager to make a positive impact with technology and secure our digital future.
 <!--
 **ayabongatshabalala22-boop/ayabongatshabalala22-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...sharpning mySQL and Security skills.
+- 🌱 I’m currently learning ...CLoud Practitioner 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
