@@ -5,11 +5,11 @@ Cloud Practitioner | 🌐 Open Source Enthusiast | 🚀 Lifelong Learner
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on **[Sharpning my database and security Skills]**
-- 🌱 I’m learning **[mySQL]**
-- 👯 I’m looking to collaborate on **[Data Analyst and Cyber Security]**
-- 💬 Ask me about **[EC2,Security,Database and Storage]**
-- ⚡ Fun fact: **[love learningnew skills]**
+-  I’m currently working on **[Sharpning my database and security Skills]**
+-  I’m learning **[mySQL]**
+- I’m looking to collaborate on **[Data Analyst and Cyber Security]**
+-  Ask me about **[EC2,Security,Database and Storage]**
+-  Fun fact: **[love learningnew skills]**
 
 ---
 
