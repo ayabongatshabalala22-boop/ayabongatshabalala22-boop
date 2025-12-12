@@ -9,7 +9,7 @@ Cloud Practitioner | 🌐 Open Source Enthusiast | 🚀 Lifelong Learner
 -  I’m learning **mySQL**
 - I’m looking to collaborate on **Data Analyst and Cyber Security**
 -  Ask me about **EC2,Security,Database and Storage**
--  Fun fact: **love learningnew skills**
+-  Fun fact: **love learning new skills**
 
 ---
 
