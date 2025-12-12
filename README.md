@@ -17,7 +17,7 @@ Cloud Practitioner | 🌐 Open Source Enthusiast | 🚀 Lifelong Learner
 - **Languages:** Python, JavaScript, TypeScript, C++
 - **Frameworks:** React, Node.js, Django, Express
 - **Tools:** Git, Docker, Kubernetes, VS Code
-- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Databases:** PostgreSQL, DynamoDB, MySQL
 
 ---
 
