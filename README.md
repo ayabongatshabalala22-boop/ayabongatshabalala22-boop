@@ -4,7 +4,7 @@ Cloud Practitioner | 🌐 Open Source Enthusiast | 🚀 Lifelong Learner
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me and My Interests
 -  I’m currently working on **Sharpning my database and security Skills**
 -  I’m learning **mySQL**
 - I’m looking to collaborate on **Data Analyst and Cyber Security**
@@ -13,8 +13,21 @@ Cloud Practitioner | 🌐 Open Source Enthusiast | 🚀 Lifelong Learner
 
 ---
 
+## 🎓 Education
+
+- **Self-Taught Data Analyst**  
+  Gained skills in data cleaning, visualization, and analysis using tools like Excel, SQL, and Python.
+
+- **International Computer Driver’s License (ICDL)**  
+  Certified in essential computer skills including productivity software, IT concepts, and digital literacy.
+
+- **AWS Cloud Practitioner (In Progress)**  
+  Currently studying cloud fundamentals, AWS services, and best practices for cloud adoption.
+
+---
+
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, TypeScript, C++
+- **Languages:**  Basic Python,Basic JavaScript, Basic Linux, html
 - **Frameworks:** React, Node.js, Django, Express
 - **Tools:** Git, Docker, Kubernetes, VS Code
 - **Databases:** PostgreSQL, DynamoDB, MySQL
@@ -30,7 +43,7 @@ Cloud Practitioner | 🌐 Open Source Enthusiast | 🚀 Lifelong Learner
 ## 🌟 Featured Projects
 - [**Project One**]([https://github.com/yourusername/project-one](https://github.com/ayabongatshabalala22-boop/AWS-Cloud-Practitioner-2025-Praesignis-AWS-re-Start-Programme/tree/main/PROJECTS/%40MALLS_STATIC%20WEBSITE)) – Desighning a static website for @Malls resturant for a more scalable website.
 - [**Project Two**]([https://github.com/yourusername/project-two](https://github.com/ayabongatshabalala22-boop/AWS-Cloud-Practitioner-2025-Praesignis-AWS-re-Start-Programme/blob/main/PROJECTS/3D%20WEB%20ARCHITECTURE/3D%20web%20architecture%20.md)) – Designing an 3D Architecture web Apllication
-- [**Project Three**](https://github.com/yourusername/project-three) – Short description of what it does
+- [**Project Three**](https://github.com/yourusername/project-three) – Coming soon
 
 ---
 
